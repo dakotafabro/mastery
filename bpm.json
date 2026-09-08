@@ -1,6 +1,6 @@
 {
   "name": "mastery",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "convention",
   "description": "Reflective mastery engine for AI agents. Identifies evidence of developing practitioner mastery across domains through four behaviors: Reflect, Challenge, Connect, Translate.",
   "entry": "SKILL.md",
@@ -11,7 +11,7 @@
     "name": "Dakota Fabro",
     "github": "dakotafabro"
   },
-  "license": "MIT",
+  "license": "Apache-2.0",
   "repository": "https://github.com/dakotafabro/bpm",
   "agents": ["goose"],
   "dependencies": [],
