@@ -27,7 +27,7 @@ The agent presents findings for your confirmation before recording anything, and
 
 ## Cost
 
-About 800 tokens of context (`token_cost` in bpm.json).
+About 1,400 tokens of context (`token_cost` in bpm.json).
 
 ## Check it's working
 
